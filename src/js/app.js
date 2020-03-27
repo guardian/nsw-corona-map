@@ -9,8 +9,8 @@ var maps = [{
 	"active" : true
 },{
 	"label" : "Sydney",
-	"centre" : [151,-33],
-	"zoom" : 15,
+	"centre" : [151,-33.8],
+	"zoom" : 40,
 	"active" : false
 }]
 
